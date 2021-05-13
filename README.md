@@ -1,7 +1,7 @@
 # GIS 3: Lab 7
 
-Package development in R
-*R Packages* by Hadley Wickham and Jenny Bryan 
+### Package development in R
+*R Packages* by Hadley Wickham and Jenny Bryan, 
 Chapter 2: The Whole Game
 
 The package created, using the instructions in the text and the lab video this week, includes one function and one dataset. 
